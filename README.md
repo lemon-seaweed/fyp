@@ -1,9 +1,9 @@
-## 📢 Simple News Page
+# 📢 Lemon Seaweed
 Welcome to Simple News Page, a mobile-first, responsive news website designed to provide the latest updates in a clean, user-friendly layout.
 
 
 ## 🚀 Features
-📱 Mobile-First Design: Optimized for mobile devices, with a clean and simple layout that adapts to larger screens.
+### 📱 Mobile-First Design: Optimized for mobile devices, with a clean and simple layout that adapts to larger screens.
 
 ### 📰 Responsive News Sections: Display multiple news categories (technology, sports, world).
 
